@@ -1,0 +1,27 @@
+[submodule "CPP-Module-0"]
+	path = CPP-Module-0
+	url = https://github.com/Juiiceee/CPP-Module-0.git
+[submodule "CPP-Module-1"]
+	path = CPP-Module-1
+	url = https://github.com/Juiiceee/CPP-Module-1.git
+[submodule "CPP-Module-2"]
+	path = CPP-Module-2
+	url = https://github.com/Juiiceee/CPP-Module-2.git
+[submodule "CPP-Module-3"]
+	path = CPP-Module-3
+	url = https://github.com/Juiiceee/CPP-Module-3.git
+[submodule "CPP-Module-4"]
+	path = CPP-Module-4
+	url = https://github.com/Juiiceee/CPP-Module-4.git
+[submodule "CPP-Module-5"]
+	path = CPP-Module-5
+	url = https://github.com/Juiiceee/CPP-Module-5.git
+[submodule "CPP-Module-6"]
+	path = CPP-Module-6
+	url = https://github.com/Juiiceee/CPP-Module-6.git
+[submodule "CPP-Module-7"]
+	path = CPP-Module-7
+	url = https://github.com/Juiiceee/CPP-Module-7.git
+[submodule "CPP-Module-8"]
+	path = CPP-Module-8
+	url = https://github.com/Juiiceee/CPP-Module-8.git
